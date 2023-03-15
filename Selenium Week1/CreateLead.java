@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.support.ui.Select;
 
-public class LeafTap {
+public class CreateLead {
     public static void main(String[] args) {
                 EdgeDriver driver = new EdgeDriver();
                 driver.get("http://leaftaps.com/opentaps/control/main");
